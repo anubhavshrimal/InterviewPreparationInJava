@@ -1,3 +1,3 @@
 #Interview Preparation In Java
 
-Contains some programmes made in java to practice algorithms and interview questions. 
+Contains some programs made in java to practice algorithms and interview questions. 
